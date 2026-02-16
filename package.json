@@ -1,0 +1,7 @@
+{
+  "name": "granola-skill",
+  "version": "1.1.0",
+  "description": "Search and retrieve meeting notes, summaries, and transcripts from Granola.",
+  "private": true,
+  "license": "MIT"
+}
